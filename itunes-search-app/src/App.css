@@ -1,0 +1,111 @@
+/* General Styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #181818; /* Dark background for Spotify-like feel */
+  color: #ffffff; /* White text */
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Modern font */
+}
+
+/* App Container */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Header */
+h1 {
+  color: #1DB954; /* Spotify green */
+  margin-bottom: 20px;
+}
+
+/* Search Container */
+.search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Search Inputs */
+.search input,
+.search select {
+  background-color: #2C2F33; /* Darker background for inputs */
+  color: #ffffff;
+  border: none;
+  margin: 0 10px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.search button {
+  background-color: #7289DA; /* Discord blue */
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+  background-color: #5A6FB2; /* Darker blue on hover */
+}
+
+/* Results and Favorites Containers */
+.results,
+.favorites {
+  margin: 20px auto;
+  width: 80%;
+  background-color: #2C2F33; /* Darker container background */
+  border-radius: 10px;
+  padding: 20px;
+}
+
+h2 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+/* List Items */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #23272A; /* Slightly darker item background */
+  border-radius: 5px;
+}
+
+li img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+li p {
+  flex: 1;
+  margin: 0;
+}
+
+button {
+  background-color: #1DB954; /* Spotify green for buttons */
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #17A047; /* Darker green on hover */
+}
