@@ -16,7 +16,7 @@ A web portfolio showcasing my skills, experience, and projects as a Junior Full-
 (Add a screenshot or GIF of your portfolio here)
 
 ## 🌐 Live Demo
-[View Live Project](https://yourusername.github.io/portfolio-project/)
+[View Live Project](https://cyleknoren.github.io/portfolio-project/)
 
 ## 💾 Installation
 To run this project locally:
