@@ -1,21 +1,26 @@
-# capstone-project
+# 💻 Portfolio Project
 
-# Portfolio Project
+A web portfolio showcasing my skills, experience, and projects as a Junior Full-Stack Web Developer.
 
-A web portfolio project showcasing my skills, experience, and projects as a Junior Full-Stack Web Developer.
-
-## Features
-- Responsive design
+## 🚀 Features
+- Responsive design for desktop and mobile
 - Interactive portfolio sections
 - Contact form integration
 
-## Technologies
+## 🛠️ Technologies
 - HTML, CSS, JavaScript
 - React
 - Node.js, Express
 
-## Installation
+## 📸 Screenshot
+(Add a screenshot or GIF of your portfolio here)
+
+## 🌐 Live Demo
+[View Live Project](https://yourusername.github.io/portfolio-project/)
+
+## 💾 Installation
 To run this project locally:
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/portfolio-project.git
+```bash
+git clone https://github.com/YourUsername/portfolio-project.git
